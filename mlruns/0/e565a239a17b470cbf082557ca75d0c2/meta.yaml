@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e565a239a17b470cbf082557ca75d0c2/artifacts
+end_time: 1751270657020
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e565a239a17b470cbf082557ca75d0c2
+run_name: enthused-steed-479
+run_uuid: e565a239a17b470cbf082557ca75d0c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751270646578
+status: 3
+tags: []
+user_id: narva

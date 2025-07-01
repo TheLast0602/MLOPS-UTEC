@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5d58766a7c6a4214a619a594ea57ba15/artifacts
+end_time: 1751270219951
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d58766a7c6a4214a619a594ea57ba15
+run_name: invincible-stork-959
+run_uuid: 5d58766a7c6a4214a619a594ea57ba15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751270202672
+status: 4
+tags: []
+user_id: narva

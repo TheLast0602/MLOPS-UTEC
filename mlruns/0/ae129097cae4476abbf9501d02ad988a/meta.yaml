@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ae129097cae4476abbf9501d02ad988a/artifacts
+end_time: 1751329100651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae129097cae4476abbf9501d02ad988a
+run_name: debonair-sloth-258
+run_uuid: ae129097cae4476abbf9501d02ad988a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751329086181
+status: 3
+tags: []
+user_id: narva

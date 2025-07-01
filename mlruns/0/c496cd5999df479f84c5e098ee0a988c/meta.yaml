@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c496cd5999df479f84c5e098ee0a988c/artifacts
+end_time: 1751269799752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c496cd5999df479f84c5e098ee0a988c
+run_name: painted-conch-924
+run_uuid: c496cd5999df479f84c5e098ee0a988c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751269791262
+status: 4
+tags: []
+user_id: narva

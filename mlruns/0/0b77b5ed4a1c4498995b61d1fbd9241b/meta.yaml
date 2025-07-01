@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0b77b5ed4a1c4498995b61d1fbd9241b/artifacts
+end_time: 1751270673709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b77b5ed4a1c4498995b61d1fbd9241b
+run_name: learned-dog-404
+run_uuid: 0b77b5ed4a1c4498995b61d1fbd9241b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751270657056
+status: 3
+tags: []
+user_id: narva
