@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/abfaa95ae32d4ea1b43e5ebed1b63225/artifacts
+end_time: 1751333303096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abfaa95ae32d4ea1b43e5ebed1b63225
+run_name: painted-skunk-720
+run_uuid: abfaa95ae32d4ea1b43e5ebed1b63225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751333291800
+status: 3
+tags: []
+user_id: narva
